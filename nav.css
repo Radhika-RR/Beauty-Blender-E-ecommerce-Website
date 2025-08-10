@@ -1,0 +1,44 @@
+
+.navbgpink{
+    width: 800;
+    height: 140px;
+}
+.offer{
+    margin-right: 700px;
+}
+
+.search{
+    padding-left: 400px;
+}
+.search1{
+    width: 200px;
+}
+.care{
+    margin-top: 20px;
+}
+.body{
+    background-color: rgb(239, 211, 220);
+}
+
+.footerimg{
+    border-radius:150px ;
+}
+.ftrflw{
+ border-radius:70px;
+ font-family: Courier ;
+    font-weight: bolder;
+    font-size: larger;
+}
+ 
+
+.ftrflw1{
+
+    font-family: Courier ;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+/* galleryimg */
+/* .galleryimg{
+    border-radius: 250px;
+} */
